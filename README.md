@@ -33,7 +33,7 @@ Given an array of numbers with duplication, select the number with the max frequ
     ```                                      |         maxFreq                                                                                                        ```
     ```  Obs    C1    C2    C3    C4    C5   |                                                                                                                        ```
     ```                                      |     15   because it occurs the most often                                                                              ```
-    ```   1     10    12    15    55    15   |     10   because it occurs the most often                                                                              ```
+    ```   1     10    12    15    55    15   |     15   because it occurs the most often                                                                              ```
     ```   2     10    10    15    10    12   |                                                                                                                        ```
     ```   3     10    10    10    10    10   |                                                                                                                        ```
     ```   4     10    10    12    12    15   |                                                                                                                        ```
