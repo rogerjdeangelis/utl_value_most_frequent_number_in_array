@@ -39,7 +39,7 @@ Given an array of numbers with duplication, select the number with the max frequ
     ```   4     10    10    12    12    15   |                                                                                                                        ```
     ```                                                                                                                                                               ```
     ```                                                                                                                                                               ```
-    ```                                      |                                                                                                                        ```
+    ```                                                                                                                                                               ```
     ```  WANT                                                                                                                                                         ```
     ```  ====                                                                                                                                                         ```
     ```                                                                                                                                                               ```
